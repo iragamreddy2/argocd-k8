@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/iragamreddy2/managed-argocd-lab' # Update to match your fork.
+    repoURL: 'https://github.com/iragamreddy2/argocd-k8.git/managed-argocd-lab' # Update to match your fork.
     path: guestbook
     targetRevision: HEAD
   destination:
